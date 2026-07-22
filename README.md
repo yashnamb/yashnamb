@@ -14,11 +14,4 @@ Turning large, messy datasets into decisions. 3+ years across analytics, consult
 - **Cloud & Tools:** Google Cloud Platform, Airflow, Salesforce
 - **Focus areas:** Machine Learning, Forecasting, A/B Testing, Data Storytelling
 
-### 🚀 Featured Projects
-- **Credit Risk Intelligence Platform** — end-to-end MLOps/LLMOps pipeline (Airflow + GCP) for delinquency forecasting.
-- **MBTA GenAI Transit Recommendations** — LLM assistant turning real-time transit data into pre-trip advice.
-- **IdeaOpt** — multi-agent search that refines startup hypotheses as a design-space problem.
-- **Portfolio Risk Analysis** — interactive Streamlit dashboard: performance vs S&P 500, Monte Carlo, VaR.
-
-### 📫 Connect
-[LinkedIn](https://linkedin.com/in/yashnameher/) · [GitHub](https://github.com/yashnamb)
+Feel free to go through my top projects below
