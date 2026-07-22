@@ -1,6 +1,7 @@
 ##  Hi, I'm Yashna Meher
 
 **M.S. in Business Analytics — Boston University (Questrom) '26**
+
 Turning large, messy datasets into decisions. 3+ years across analytics, consulting, applied ML and business intelligence.
 
 ###  About Me
